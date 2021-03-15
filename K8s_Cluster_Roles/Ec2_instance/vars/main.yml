@@ -1,0 +1,7 @@
+---
+# vars file for Ec2_instance
+
+akey: 'AKIAXTIDW2J35LCBNJEE'
+skey: '9vzDarZWDj5KVEE4B9knAkjBEi07UrAdcuEqRvDv'
+imgid:  ami-08e0ca9924195beba
+

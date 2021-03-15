@@ -1,0 +1,14 @@
+ - hosts: localhost
+   roles:
+          - role: Ec2_instance
+
+ - hosts: tag_Name_KubeMaster
+   roles:
+          - role: K8_Master
+
+ - hosts: tag_Name_KubeSlave
+   roles:
+           - role: K8_Slave 
+
+
+
